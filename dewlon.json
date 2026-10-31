@@ -1,0 +1,21 @@
+{
+    "version": "4.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dewlonsystems/dewlon/releases/download/v4.1.0/dewlon_4.1.0_windows_amd64.zip",
+            "bin": [
+                "dewlon.exe"
+            ],
+            "hash": "e5a55a698ab41b950af911f1cebbe1fe9f812a3cd5a121868b2afedcfe5f8813"
+        },
+        "arm64": {
+            "url": "https://github.com/dewlonsystems/dewlon/releases/download/v4.1.0/dewlon_4.1.0_windows_arm64.zip",
+            "bin": [
+                "dewlon.exe"
+            ],
+            "hash": "e81711b445b843dc7acfb6da0ecc9a7e26cc92342e1c5979fbec56fb5d2cd2b8"
+        }
+    },
+    "homepage": "https://github.com/dewlonsystems/dewlon",
+    "description": "Scaffold new projects from Dewlon's maintained templates"
+}
