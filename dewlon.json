@@ -1,19 +1,19 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dewlonsystems/dewlon/releases/download/v0.4.0/dewlon_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/dewlonsystems/dewlon/releases/download/v0.4.1/dewlon_0.4.1_windows_amd64.zip",
             "bin": [
                 "dewlon.exe"
             ],
-            "hash": "d59242ad752e538bed34d88296e892a51c1b4c49dbf96d12e36f84a967a6c020"
+            "hash": "3736fbfdaebad8d9e03e149d69268b4c4b99242bb4bd1dd1e04b549bd163b784"
         },
         "arm64": {
-            "url": "https://github.com/dewlonsystems/dewlon/releases/download/v0.4.0/dewlon_0.4.0_windows_arm64.zip",
+            "url": "https://github.com/dewlonsystems/dewlon/releases/download/v0.4.1/dewlon_0.4.1_windows_arm64.zip",
             "bin": [
                 "dewlon.exe"
             ],
-            "hash": "9acef59bd9ca0160c70f2efd69fee5a23ebca322dd3c44f3c9a1368a86e2b24a"
+            "hash": "e12573e6eea2d208a24eb1aaac873e003722a8ff3fb26cf33cdddb6f9eafd251"
         }
     },
     "homepage": "https://github.com/dewlonsystems/dewlon",
